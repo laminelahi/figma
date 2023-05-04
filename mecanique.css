@@ -1,0 +1,490 @@
+/* screen - mecanique */
+
+.mecanique {
+  background-color: var(--white);
+  border: 1px none;
+  height: 4350px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.mecanique .overlap-group2 {
+  height: 403px;
+  left: 0;
+  position: absolute;
+  top: 3950px;
+  width: 1440px;
+}
+
+.mecanique .rectangle-21 {
+  background-color: var(--torea-bay);
+  height: 301px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.mecanique .mld-mecanic {
+  left: 116px;
+  letter-spacing: 3.96px;
+  line-height: 29px;
+  position: absolute;
+  top: 77px;
+  white-space: nowrap;
+}
+
+.mecanique .phone {
+  left: 1162px;
+  letter-spacing: 1.80px;
+  line-height: 29px;
+  position: absolute;
+  top: 131px;
+  white-space: nowrap;
+}
+
+.mecanique .mldmecaniccom {
+  left: 1163px;
+  letter-spacing: 1.80px;
+  line-height: 29px;
+  position: absolute;
+  top: 172px;
+  white-space: nowrap;
+}
+
+.mecanique .dakar-hlm-4 {
+  left: 1162px;
+  letter-spacing: 1.80px;
+  line-height: 29px;
+  position: absolute;
+  top: 210px;
+  white-space: nowrap;
+}
+
+.mecanique .mcanique-auto {
+  left: 641px;
+  letter-spacing: 3.00px;
+  line-height: 29px;
+  top: 74px;
+}
+
+.mecanique .place {
+  left: 1132px;
+  letter-spacing: 3.00px;
+  line-height: 29px;
+  position: absolute;
+  top: 74px;
+  white-space: nowrap;
+}
+
+.mecanique .la-prservation-de-l {
+  left: 87px;
+  letter-spacing: 1.80px;
+  line-height: 29px;
+  position: absolute;
+  top: 129px;
+  width: 394px;
+}
+
+.mecanique .dcouvrez-tout-ce-qu {
+  left: 625px;
+  letter-spacing: 1.80px;
+  line-height: 29px;
+  position: absolute;
+  top: 129px;
+  width: 394px;
+}
+
+.mecanique .rectangle-22 {
+  background-color: var(--arapawa);
+  height: 104px;
+  left: 0;
+  position: absolute;
+  top: 299px;
+  width: 1440px;
+}
+
+.mecanique .icon-location_pin {
+  top: 210px;
+}
+
+.mecanique .icon-mail {
+  top: 172px;
+}
+
+.mecanique .icon-call {
+  top: 131px;
+}
+
+.mecanique .copyright-2010-202 {
+  left: 335px;
+  letter-spacing: 2.40px;
+  line-height: 29px;
+  position: absolute;
+  top: 330px;
+  white-space: nowrap;
+}
+
+.mecanique .overlap-group4 {
+  height: 986px;
+  left: -1px;
+  position: absolute;
+  top: 89px;
+  width: 1559px;
+}
+
+.mecanique .car-being-taking-care-workshop-1 {
+  height: 808px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 1440px;
+}
+
+.mecanique .rectangle-24 {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.78) 0%, rgba(255, 255, 255, 0) 55.18%);
+  height: 984px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(-179.93deg);
+  width: 1558px;
+}
+
+.mecanique .mcanique-entretien {
+  left: 53px;
+  letter-spacing: 0;
+  line-height: normal;
+  top: 624px;
+  width: 806px;
+}
+
+.mecanique .line-5 {
+  height: 6px;
+  left: 63px;
+  position: absolute;
+  top: 729px;
+  width: 92px;
+}
+
+.mecanique .rectangle-33 {
+  height: 261px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 2972px;
+  width: 588px;
+}
+
+.mecanique .rectangle-34 {
+  height: 261px;
+  left: 790px;
+  object-fit: cover;
+  position: absolute;
+  top: 2972px;
+  width: 588px;
+}
+
+.mecanique .pour-bien-entretenir {
+  left: 64px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 3367px;
+  width: 611px;
+}
+
+.mecanique .une-voiture-est-un-i {
+  left: 796px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 3365px;
+  width: 611px;
+}
+
+.mecanique .overlap-group5 {
+  background-color: var(--blue);
+  height: 60px;
+  left: 64px;
+  position: absolute;
+  top: 2795px;
+  width: 230px;
+}
+
+.mecanique .lire-la-suite {
+  left: 51px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.mecanique .overlap-group6 {
+  background-color: var(--blue);
+  height: 60px;
+  left: 65px;
+  position: absolute;
+  top: 3657px;
+  width: 230px;
+}
+
+.mecanique .overlap-group3 {
+  background-color: var(--blue);
+  height: 60px;
+  left: 795px;
+  position: absolute;
+  top: 2795px;
+  width: 230px;
+}
+
+.mecanique .overlap-group7 {
+  background-color: var(--blue);
+  height: 60px;
+  left: 796px;
+  position: absolute;
+  top: 3657px;
+  width: 230px;
+}
+
+.mecanique .group-34 {
+  height: 745px;
+  left: 62px;
+  position: absolute;
+  top: 1248px;
+  width: 617px;
+}
+
+.mecanique .rectangle-2 {
+  height: 261px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 588px;
+}
+
+.mecanique .la-gamme-de-bleus-de {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 395px;
+  width: 611px;
+}
+
+.mecanique .overlap-group {
+  background-color: var(--blue);
+  height: 60px;
+  left: 1px;
+  position: absolute;
+  top: 685px;
+  width: 230px;
+}
+
+.mecanique .lire-la-suite-1 {
+  left: 51px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.mecanique .les-caractristiques {
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+}
+
+.mecanique .group-37 {
+  height: 653px;
+  left: 63px;
+  position: absolute;
+  top: 2110px;
+  width: 615px;
+}
+
+.mecanique .la-combustion-produi {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 401px;
+  width: 611px;
+}
+
+.mecanique .span-1 {
+  text-decoration: underline;
+}
+
+.mecanique .quand-changer-le-turbo {
+  left: 1px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+}
+
+.mecanique .choisier-notre-garag {
+  left: 65px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 3276px;
+  width: 609px;
+}
+
+.mecanique .group-35 {
+  height: 745px;
+  left: 788px;
+  position: absolute;
+  top: 1248px;
+  width: 668px;
+}
+
+.mecanique .rectangle {
+  height: 261px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 588px;
+}
+
+.mecanique .quand-on-a-de-bonnes {
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 398px;
+  width: 611px;
+}
+
+.mecanique .overlap-group1 {
+  background-color: var(--blue);
+  height: 60px;
+  left: 6px;
+  position: absolute;
+  top: 685px;
+  width: 230px;
+}
+
+.mecanique .les-meilleurs-en-dia {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+  width: 662px;
+}
+
+.mecanique .group-38 {
+  height: 647px;
+  left: 789px;
+  position: absolute;
+  top: 2110px;
+  width: 666px;
+}
+
+.mecanique .les-calamines-sont-d {
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 359px;
+  width: 611px;
+}
+
+.mecanique .solution-durable-pour-votre-moteur {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 305px;
+  white-space: nowrap;
+  width: 662px;
+}
+
+.mecanique .entretenir-sa-voiture-moindre-cout {
+  left: 790px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 3276px;
+  white-space: nowrap;
+  width: 662px;
+}
+
+.mecanique .rectangle-23 {
+  background-color: var(--white);
+  height: 146px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1558px;
+}
+
+.mecanique .group-1 {
+  cursor: pointer;
+  height: 30px;
+  left: 676px;
+  position: fixed;
+  top: 60px;
+  width: 601px;
+}
+
+.mecanique .automobile {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.mecanique .mcanique-entretien-1 {
+  left: 209px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.mecanique .place-1 {
+  cursor: pointer;
+  left: 513px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.mecanique .x85-removebg-preview-1-1 {
+  height: 266px;
+  left: 34px;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  width: 290px;
+}
+
+.mecanique .icon {
+  height: 30px;
+  left: 1119px;
+  position: absolute;
+  width: 30px;
+}
+
+.mecanique .mcanique {
+  position: absolute;
+  white-space: nowrap;
+}

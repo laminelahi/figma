@@ -1,0 +1,90 @@
+:root { 
+  --arapawa: #0c1472;
+  --black: #000000;
+  --blue: #3140fc;
+  --persian-blue: #1b28c5;
+  --torea-bay: #163c9e;
+  --white: #ffffff;
+ 
+  --font-size-l: 33px;
+  --font-size-m: 26px;
+  --font-size-s: 25px;
+  --font-size-s2: 23px;
+  --font-size-xl: 67px;
+  --font-size-xs2: 20px;
+  --font-size-xxxs: 15px;
+ 
+  --font-family-podkova: "Podkova", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+}
+.poppins-light-black-26px {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.poppins-bold-persian-blue-26px {
+  color: var(--persian-blue);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-medium-white-23px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-medium-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-medium-persian-blue-20px {
+  color: var(--persian-blue);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.poppins-bold-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.podkova-bold-persian-blue-67px {
+  color: var(--persian-blue);
+  font-family: var(--font-family-podkova);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-normal-white-33px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.poppins-light-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs2);
+  font-style: normal;
+  font-weight: 300;
+}

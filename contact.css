@@ -1,0 +1,455 @@
+/* screen - contact */
+
+.contact {
+  background-color: var(--white);
+  border: 1px none;
+  height: 2426px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.contact .overlap-group5 {
+  background-color: var(--torea-bay);
+  height: 368px;
+  left: -10px;
+  position: absolute;
+  top: 1944px;
+  width: 1738px;
+}
+
+.contact .mld-mecanic {
+  left: 116px;
+  letter-spacing: 3.96px;
+  line-height: 29px;
+  position: absolute;
+  top: 144px;
+  white-space: nowrap;
+}
+
+.contact .phone {
+  left: 1162px;
+  letter-spacing: 1.80px;
+  line-height: 29px;
+  position: absolute;
+  top: 198px;
+  white-space: nowrap;
+}
+
+.contact .mldmecaniccom {
+  left: 1163px;
+  letter-spacing: 1.80px;
+  line-height: 29px;
+  position: absolute;
+  top: 239px;
+  white-space: nowrap;
+}
+
+.contact .dakar-hlm-4 {
+  left: 1162px;
+  letter-spacing: 1.80px;
+  line-height: 29px;
+  position: absolute;
+  top: 277px;
+  white-space: nowrap;
+}
+
+.contact .mcanique-auto {
+  left: 641px;
+  letter-spacing: 3.00px;
+  line-height: 29px;
+  position: absolute;
+  top: 141px;
+  white-space: nowrap;
+}
+
+.contact .place {
+  left: 1132px;
+  letter-spacing: 3.00px;
+  line-height: 29px;
+  position: absolute;
+  top: 141px;
+  white-space: nowrap;
+}
+
+.contact .la-prservation-de-l {
+  left: 87px;
+  letter-spacing: 1.80px;
+  line-height: 29px;
+  position: absolute;
+  top: 196px;
+  width: 394px;
+}
+
+.contact .dcouvrez-tout-ce-qu {
+  left: 625px;
+  letter-spacing: 1.80px;
+  line-height: 29px;
+  position: absolute;
+  top: 196px;
+  width: 394px;
+}
+
+.contact .icon-location_pin {
+  top: 277px;
+}
+
+.contact .icon-mail {
+  top: 239px;
+}
+
+.contact .icon-call {
+  top: 198px;
+}
+
+.contact .overlap-group6 {
+  background-color: var(--arapawa);
+  height: 102px;
+  left: -10px;
+  position: absolute;
+  top: 2312px;
+  width: 1558px;
+}
+
+.contact .copyright-2010-202 {
+  left: 345px;
+  letter-spacing: 2.40px;
+  line-height: 29px;
+  position: absolute;
+  top: 36px;
+  white-space: nowrap;
+}
+
+.contact .group-40 {
+  height: 536px;
+  left: 26px;
+  position: absolute;
+  top: 1278px;
+  width: 457px;
+}
+
+.contact .overlap-group1 {
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 4px 20px #00000026;
+  height: 464px;
+  left: 0;
+  position: absolute;
+  top: 72px;
+  width: 455px;
+}
+
+.contact .phone-1 {
+  left: 119px;
+  letter-spacing: 2.70px;
+  line-height: normal;
+  position: absolute;
+  top: 235px;
+}
+
+.contact .dakar-hlm-4-1 {
+  left: 140px;
+  letter-spacing: 2.20px;
+  line-height: normal;
+  position: absolute;
+  top: 376px;
+  width: 176px;
+}
+
+.contact .overlap-group {
+  height: 116px;
+  left: 77px;
+  position: absolute;
+  top: 84px;
+  width: 360px;
+}
+
+.contact .contactmldacademiccom {
+  left: 0;
+  letter-spacing: 2.70px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.contact .vector {
+  height: 30px;
+  left: 138px;
+  position: absolute;
+  top: 85px;
+  width: 30px;
+}
+
+.contact .icon-location_pin-1 {
+  height: 30px;
+  left: 213px;
+  position: absolute;
+  top: 317px;
+  width: 30px;
+}
+
+.contact .icon-mail-1 {
+  height: 30px;
+  left: 216px;
+  position: absolute;
+  top: 29px;
+  width: 30px;
+}
+
+.contact .information-de-contact {
+  left: 55px;
+  letter-spacing: 2.70px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 382px;
+}
+
+.contact .place-1 {
+  color: #006dc6;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  left: 580px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1063px;
+}
+
+.contact .line-4 {
+  height: 5px;
+  left: 688px;
+  position: absolute;
+  top: 1164px;
+  width: 64px;
+}
+
+.contact .group-42 {
+  height: 536px;
+  left: 563px;
+  position: absolute;
+  top: 1278px;
+  width: 852px;
+}
+
+.contact .group-8 {
+  height: 470px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 866px;
+}
+
+.contact .overlap-group2 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--silver-chalice);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px #00000005;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 32px;
+  width: 850px;
+}
+
+.contact .remplir-le-champ {
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 26.8px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.contact .overlap-group-1 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--silver-chalice);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px #00000005;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 128px;
+  width: 850px;
+}
+
+.contact .overlap-group1-1 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--silver-chalice);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px #00000005;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 224px;
+  width: 850px;
+}
+
+.contact .overlap-group3 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--silver-chalice);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px #00000005;
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 320px;
+  width: 850px;
+}
+
+.contact .prnom-et-nom {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.contact .adresse-mail {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 96px;
+}
+
+.contact .tlphone {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 192px;
+}
+
+.contact .message {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 288px;
+}
+
+.contact .overlap-group4 {
+  background-color: #0062c6;
+  border-radius: 5px;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 496px;
+  width: 850px;
+}
+
+.contact .envoyer {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  left: 384px;
+  letter-spacing: 0;
+  line-height: 35.7px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.contact .overlap-group7 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/645383bd69cdd9cf4fefc65e/releases/645385604f213122953168b2/img/car-being-taking-care-workshop-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 889px;
+  left: 0;
+  position: absolute;
+  top: 137px;
+  width: 1440px;
+}
+
+.contact .place-2 {
+  color: var(--persian-blue);
+  font-family: var(--font-family-podkova);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 700;
+  left: 145px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 522px;
+  white-space: nowrap;
+  width: 806px;
+}
+
+.contact .line-5 {
+  height: 6px;
+  left: 202px;
+  position: absolute;
+  top: 621px;
+  width: 92px;
+}
+
+.contact .rectangle-23 {
+  background-color: var(--white);
+  height: 146px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1668px;
+}
+
+.contact .group-1 {
+  cursor: pointer;
+  height: 30px;
+  left: 667px;
+  position: fixed;
+  top: 32px;
+  width: 434px;
+}
+
+.contact .automobile {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.contact .mcanique-entretien {
+  cursor: pointer;
+  left: 218px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.contact .place-3 {
+  left: 1189px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 31px;
+}
+
+.contact .x85-removebg-preview-1-1 {
+  height: 266px;
+  left: 34px;
+  object-fit: cover;
+  position: fixed;
+  top: 0;
+  width: 290px;
+}
+
+.contact .icon {
+  height: 30px;
+  left: 1119px;
+  position: absolute;
+  width: 30px;
+}
